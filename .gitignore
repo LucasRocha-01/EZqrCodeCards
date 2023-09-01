@@ -1,0 +1,6 @@
+cards/*
+qrcodes/*
+modelos/*
+node_modules
+dados.json
+.env
